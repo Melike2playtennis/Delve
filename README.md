@@ -5,7 +5,7 @@ Welcome to Delve! This project is powered by a comprehensive Lore and Credits Hu
 ## 🚀 Quick Start
 
 Access the live application here:
-[**Lore and Credits Hub**](https://preview--lore-and-credits-hub.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiUFFJV0VTMjI2TWdFSjFUSmFTb0cwdDJqZjRDMiIsInByb2plY3RfaWQiOiJhN2E3M2EyYi1lYTMzLTRjZjMtODdkNC0wNzY4ZmE2MWJiNGIiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6ImE3YTczYTJiLWVhMzMtNGNmMy04N2Q0LTA3NjhmYTYxYmI0YiIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3Nzg5NzE2NDMsIm5iZiI6MTc3ODM2Njg0MywiaWF0IjoxNzc4MzY2ODQzfQ.R8MzZL5RhgVkqV3olsy8iNrHxRR-Ssxwg4R1pixKbYm5nDCQWYQ1-nOWjdO3waU0ErM6pI6e-Vsiiywk3CZehl4O3ojKXxQNqp9jI8OCUumxDqFINDwYz06j9xQLHHdaNEBzneVKTiNnugr1CbU8LFUOByReEpa5YqbQbFoahOzV_fsY33RSi4GjFj24UDpXjljxigXJB5v3MZ2iCPvYGM8IeYrl28OwsbktiyXNtZeMGNyPhoMWfLeXKmB80vWku-Sz1lyrTnhk6OmfVUjJd-enLpQNcx8Z0SLJL8shgBlrr7oHEs1XSiHZduZLmaNXs_C0wrQEc2g_IwCK-lVdn4OPyZGTABJL7GImcpmf86z1pJBYR_LkfnxvT_Nr_ABMqvosbocikR6XUrirV2jODSeapjYoxl899Qr6maXaOdTV4apxZcLeaqP8Tsl8P5QPOVR7_EwDUtxH0IMmWl9wLhE8OX9X8mWQ4aDf0Oz9OddHU3iGeBXsvqA_0EnJSqGlDa_Pb1lm5h2cU2pNl0olJfT8XF82D2BUSN4q8FF2FzQFyhuSdT7_et0E_Y39Y31EWAQcJUHqBJPTyGSFGnMDmllv9_fmg1rSlrl4qbkiQY3GKbmt-XlgZoIOSRc0o5IXg5PXA3lEk_Q5m9e5elwUqI2GEc8KqPVXKQzTskNgcrw)
+[**Lore and Credits Hub**](https://ui-animation-refresh.preview.emergentagent.com/)
 
 This hub contains all the lore, world-building, and credits information for the Delve project.
 
@@ -23,4 +23,4 @@ This project is maintained by the Delve community.
 
 ---
 
-**Last Updated:** May 9, 2026
+**Last Updated:** May 10, 2026
